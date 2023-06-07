@@ -1,0 +1,34 @@
+package com.devops;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class Testcaseforcal {
+	
+	calculator cal=new calculator();
+
+	@Test
+	public void testadd() {
+		assertEquals(20,cal.addnum(20, 30));
+	}
+	@Test
+	public void testsub() {
+		assertEquals(20,cal.subnum(20, 30));
+	}
+	
+	@Test
+	public void testmul() {
+		assertEquals(20,cal.mulnum(20, 30));
+	}
+	@Test
+	public void testdiv() {
+		assertEquals(20,cal.divnum(20, 30));
+	}
+	@Test
+	public void testmod() {
+		assertEquals(20,cal.modnum(20, 30));
+	}
+	
+
+}
