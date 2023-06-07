@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;com.springcore.main.java&apos; to &apos;mainjava.java&apos;&#x0D;&#x0A;- Original project: &apos;springcoreeg&apos;&#x0D;&#x0A;- Original element: &apos;com.springcore.main.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.springcore.mainjava.java&apos;" description="Rename compilation unit &apos;main.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.springcore{main.java" name="mainjava.java" references="false" stamp="1685962619333" version="1.0"/>
-</session>
